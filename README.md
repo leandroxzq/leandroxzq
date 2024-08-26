@@ -10,4 +10,4 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=070808)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=070808)
 ![](https://img.shields.io/badge/Python-070808?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=070808)
+![](https://img.shields.io/badge/-boostrap-070808?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=070808)
