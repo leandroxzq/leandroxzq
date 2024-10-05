@@ -7,6 +7,7 @@
 ### Skills
 
 ![](https://img.shields.io/badge/JavaScript-070808?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/vuejs-070808.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![](https://img.shields.io/badge/python-070808?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&color=070808)
 ![](https://img.shields.io/badge/CSS3-070808?style=for-the-badge&logo=css3&logoColor=1572B6)
