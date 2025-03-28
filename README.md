@@ -9,13 +9,13 @@ I'm studying Systems Analysis and Development at IFPE.
 
 ### skills 🧠
 
-![Vue](https://img.shields.io/badge/Vue-0d0d0d?style=flat-square&logo=vue.js&logoColor=33A06F)
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DBFB)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=3776AB)
+
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DBFB)
+![Jest](https://img.shields.io/badge/Jest-0d0d0d?style=flat-square&logo=jest&logoColor=C21325)
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d0d?style=flat-square&logo=bootstrap&logoColor=7952B3)
 ![Sass](https://img.shields.io/badge/Sass-0d0d0d?style=flat-square&logo=sass&logoColor=CC6699)
