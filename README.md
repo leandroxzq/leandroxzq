@@ -17,10 +17,11 @@ I'm studying Systems Analysis and Development at IFPE.
 ![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DBFB)
 ![Jest](https://img.shields.io/badge/Jest-0d0d0d?style=flat-square&logo=jest&logoColor=C21325)
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d0d?style=flat-square&logo=bootstrap&logoColor=7952B3)
-![Sass](https://img.shields.io/badge/Sass-0d0d0d?style=flat-square&logo=sass&logoColor=CC6699)
-![MUI](https://img.shields.io/badge/MUI-0d0d0d?style=flat-square&logo=mui&logoColor=0081CB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d0d?style=flat-square&logo=bootstrap)
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-0d0d0d?style=flat-square&logo=tailwindcss)
+![Sass](https://img.shields.io/badge/Sass-0d0d0d?style=flat-square&logo=sass)
+![MUI](https://img.shields.io/badge/MUI-0d0d0d?style=flat-square&logo=mui)
 
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=4479A1)
