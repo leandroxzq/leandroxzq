@@ -14,6 +14,7 @@ I'm studying Systems Analysis and Development at IFPE.
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=3776AB)
 
+![Next.js](https://img.shields.io/badge/next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DBFB)
 ![Jest](https://img.shields.io/badge/Jest-0d0d0d?style=flat-square&logo=jest&logoColor=C21325)
 
