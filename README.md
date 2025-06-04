@@ -2,6 +2,7 @@
 
 I'm studying Systems Analysis and Development at IFPE.
 
+[![leandroxzq.github.io](https://img.shields.io/badge/leandroxzq.github.io-0d0d0d?style=flat-square&logo=todoist&logoColor=white)](https://leandroxzq.github.io/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0d0d0d?style=flat&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/leandrosilvaz/)
 [![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=flat-square&logo=gmail&logoColor=white)](mailto:leandrosilvazw25@gmail.com)
 
