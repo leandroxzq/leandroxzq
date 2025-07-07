@@ -18,11 +18,13 @@ I'm studying Systems Analysis and Development at IFPE.
 ![Next.js](https://img.shields.io/badge/next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DBFB)
 ![Jest](https://img.shields.io/badge/Jest-0d0d0d?style=flat-square&logo=jest&logoColor=C21325)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&logo=redis&logoColor=DC382D)
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d0d?style=flat-square&logo=bootstrap)
-![Tailwindcss](https://img.shields.io/badge/Tailwindcss-0d0d0d?style=flat-square&logo=tailwindcss)
-![Sass](https://img.shields.io/badge/Sass-0d0d0d?style=flat-square&logo=sass)
+![Mantine](https://img.shields.io/badge/Mantine-0d0d0d?style=flat-square&logo=mantine&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-0d0d0d?style=flat-square&logo=mui)
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-0d0d0d?style=flat-square&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d0d?style=flat-square&logo=bootstrap)
+![Sass](https://img.shields.io/badge/Sass-0d0d0d?style=flat-square&logo=sass)
 
 ![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=4169E1)
